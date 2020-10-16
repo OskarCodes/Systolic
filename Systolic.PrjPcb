@@ -34,7 +34,6 @@ ManagedProjectGUID=
 VaultGUID=
 ReleaseVaultName=
 IncludeDesignInRelease=0
-ItemGUID=
 
 [Preferences]
 PrefsVaultGUID=
