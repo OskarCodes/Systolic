@@ -1,0 +1,27 @@
+### Altium ###
+# Previews Folders
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project Logs*/
+
+# Project Outputs
+Project Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+# My own folder which has random stuff, not important for the Repo
+Random
+
+# Ignore PDN output
+PDNAnalyzer_Output
+
+# Ignoure outjobs
+*.OutJob
