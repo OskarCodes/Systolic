@@ -1,7 +1,7 @@
 # Systolic
 Altium Designer files for my electrocardiogram (ECG): Systolic.
 ## What is Systolic?
-Systolic is a project I have been working on for a couple months. It is an ultra-low-cost ECG which one day I hope can be used in developing countries. Systolic is very compact, and only requires a host device (e.g. a laptop). On the host device, a [program]( https://github.com/OskarCodes/SystolicHost) I made runs and allows for the configuration of sampling settings, starting/stopping sampling, and finally, the parsing of results.
+Systolic is a project I have been working on for a couple months. It is an ultra-low-cost ECG which one day I hope can be used in developing countries. Systolic is very compact, and only requires a host device (e.g. a laptop). On the host device, a [program]( https://github.com/OskarCodes/SystolicHost) I made runs and allows for the configuration of sampling settings, starting/stopping sampling, and finally, the parsing of results. Systolic currently costs roughly 55 USD per unit (for 100).
 
 ## Briefly, how does it work?
 Systolic uses an ADS1293 from Texas Instruments with an STM32L475 microcontroller. They communicate over SPI, and the STM32 then transfers this data to the host device over a USB virtual com port.
