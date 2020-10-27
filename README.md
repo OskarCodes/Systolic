@@ -6,6 +6,12 @@ Systolic is a project I have been working on for a couple months. It is an ultra
 ## Briefly, how does it work?
 Systolic uses an ADS1293 from Texas Instruments with an STM32L475 microcontroller. They communicate over SPI, and the STM32 then transfers this data to the host device over a USB virtual com port.
 
+## What are the results like?
+Take a look, they're awesome, in my opinion!
+
+![ECG Sample was taken at 533 Hz](docs/images/ecg_sample_533hz.jpg)
+This sample was taken at 533 Hz. Compared to the other sample taken at 133 Hz in the docs/image folder, it has more noise.
+
 ## Setup
 ```shell
 git clone https://github.com/OskarCodes/Systolic.git
