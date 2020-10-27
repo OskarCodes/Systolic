@@ -20,4 +20,4 @@ I immensely appreciate any contribution to this project, no matter the size. Ple
 This device is not medically certified, nor is it in its current state intended for use in diagnosis/treatment of any medical conditions. Although it may not have harmed me during my testing so far, that does not mean that it is safe. 
 If you really want to make this ECG, remember that you are have been warned about the potential risks. I assume no liability for any harm or damage from the use of this device. 
 ## Licensing
-This project is licensed under the AGPL license. I chose this because I want all changes to Systolic and supporting software, no matter who by, to be accessible to everyone.
+This project is licensed under the GPL-3.0 license. I chose this because I want all changes to Systolic and supporting software, no matter who by, to be accessible to everyone.
