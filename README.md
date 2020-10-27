@@ -14,7 +14,7 @@ cd Systolic/
 And you are done! The project can then be opened up in Altium.
 
 ## Contributing
-I immensely appreciate any contribution to this project, no matter the size. Please feel free to make a pull request!
+I immensely appreciate any contribution to this project, no matter the size. Please feel free to make a pull request! If you have any questions, please do not hesitate to reach out.
 
 ## Extremely important
 This device is not medically certified, nor is it in its current state intended for use in diagnosis/treatment of any medical conditions. Although it may not have harmed me during my testing so far, that does not mean that it is safe. 
