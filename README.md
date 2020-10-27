@@ -8,6 +8,7 @@ Systolic uses an ADS1293 from Texas Instruments with an STM32L475 microcontrolle
 
 ## What are the results like?
 Take a look, they're awesome, in my opinion!
+
 ![ECG Sample was taken at 533 Hz](docs/images/ecg_sample_533hz.jpg)
 This sample was taken at 533 Hz. Compared to the other sample taken at 133 Hz in the docs/image folder, it has more noise.
 
